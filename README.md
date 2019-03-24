@@ -20,7 +20,7 @@ You will need to have a Google account to access colab. If you have never used c
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-The following variables are available to change: ``NUM_EPOCHS``, ``BATCH_SIZE``, 
+The following variables are available to change:
 * ``SHOW_IMAGES`` may be set as ``True`` or ``False``
 * ``DATASET_NAME`` may be set as ``'mnist'`` or ``'fashion_mnist'``
 * ``NN_TYPE`` (neural network type) may be set as ``'standard'`` or ``'cnn'``
