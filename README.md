@@ -42,7 +42,7 @@ and change this line
 
 
 ```
-CHECKPOINT_DIR = F'/content/gdrive/My Drive/Colab/imageClassifier/checkpoints/' + "epochs" + str(NUM_EPOCHS) + "_batchsize" + str(BATCH_SIZE) + "/"     # directory checkpoint weights of model are saved
+CHECKPOINT_DIR = F'/content/gdrive/My Drive/Colab/image-classifier-mnist/checkpoints/' + "epochs" + str(NUM_EPOCHS) + "_batchsize" + str(BATCH_SIZE) + "/"     # directory checkpoint weights of model are saved
 ```
 
 to this:
