@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/gdrive/My Drive/Colab/imageClassifier/checkpoints/epochs5_batchsize32/cp.ckpt"
+all_model_checkpoint_paths: "/content/gdrive/My Drive/Colab/imageClassifier/checkpoints/epochs5_batchsize32/cp.ckpt"
